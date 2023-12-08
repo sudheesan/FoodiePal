@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navRecipes"
+        android:title="Recipes">
+    </item>
+    <item
+        android:id="@+id/navMealPlanner"
+        android:title="Meal Planner">
+    </item>
+    <item
+        android:id="@+id/navBlog"
+        android:title="Blog">
+    </item>
+
+</menu>
